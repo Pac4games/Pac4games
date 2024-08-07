@@ -33,14 +33,14 @@
 
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/paulo-nicolau-1b38a0121/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
+<div align="center">
+  <img height="350" src="https://i.pinimg.com/originals/75/90/b0/7590b091674eb2a9700ecec83dd528c9.gif"  />
 </div>
 
 ###
 
-<div align="center">
-  <img height="350" src="https://i.pinimg.com/originals/75/90/b0/7590b091674eb2a9700ecec83dd528c9.gif"  />
+<div align="left">
+  <a href="https://www.linkedin.com/in/paulo-nicolau-1b38a0121/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
 </div>
