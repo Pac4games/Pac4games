@@ -3,12 +3,6 @@
 ###
 
 <div align="center">
-  <img height="350" src="https://i.pinimg.com/originals/75/90/b0/7590b091674eb2a9700ecec83dd528c9.gif"  />
-</div>
-
-###
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Pac4games&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=city_lights&locale=en&hide_border=true&custom_title=Pac4's%20Stats" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pac4games&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=city_lights&hide_border=true" height="150" alt="languages graph"  />
 </div>
@@ -52,3 +46,8 @@
 <img src="https://raw.githubusercontent.com/Pac4games/Pac4games/output/snake.svg" alt="Snake animation" />
 
 ###
+
+
+<div align="center">
+  <img height="350" src="https://i.pinimg.com/originals/75/90/b0/7590b091674eb2a9700ecec83dd528c9.gif"  />
+</div>
