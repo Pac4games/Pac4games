@@ -41,13 +41,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Pac4games/Pac4games/output/snake.svg" alt="Snake animation" />
-
-###
-
-
 <div align="center">
   <img height="350" src="https://i.pinimg.com/originals/75/90/b0/7590b091674eb2a9700ecec83dd528c9.gif"  />
 </div>
