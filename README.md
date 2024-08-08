@@ -1,3 +1,7 @@
+<div align="center">
+  <img height="350" src="https://i.imgur.com/RcXc77a.gif"  />
+</div>
+
 <h2 align="left">* Greetings.</h2>
 
 ###
@@ -62,9 +66,7 @@ $ Pacfetch
 
 ###
 
-<div align="center">
-  <img height="350" src="https://i.imgur.com/RcXc77a.gif"  />
-</div>
+
 
 ###
 
