@@ -2,6 +2,35 @@
 
 ###
 
+```python
+$ Pacfetch
+╭──────────────────────────────────────────────────────────────────────────────────────────────── •
+             .,-:;//;:=,                   pac4@shasum
+         . :H@@@MM@M#H/.,+%;,              -----------
+      ,/X+ +M@@M@MM%=,-%HMMM@X/,           Welcome to my GitHub page.
+     -+@MM; $M@@MH+-,;XMMMM@MMMM@+-
+    ;@M@@M- XM@X;. -+XXXXXHHH@M@M#@/.      I'm a computer science student at 42 Lisboa, and
+  ,%MM@@MH ,@%=            .---=-=:=,.     here you may find my collection of projects, both
+  -@#@@@MX .,              -%HX$$%%%+;     professional and personal.
+ =-./@M@M$                  .;@MMMM@MM:
+ X@/ -$MM/                    .+MM@@@M$    I'm also a huge tech entusiast, especially when it
+,@M@H: :@:                    . -X#@@@@-   involves Operating Systems, and do some game
+,@@@MMX, .                    /H- ;@M@M=   development in my free time.
+.H@@@@M@+,                    %MM+..%#$.
+ /MMMM@MMH/.                  XM@MH; -;
+  /%+%$XHH@$=              , .H@@@@MX,
+   .=--------.           -%H.,@@@@@MX,
+   .%MM@@@HHHXX$$$%+- .:$MMX -M@@MM%.
+     =XMMM@MM@MM#H;,-+HMM@M+ /MMMX=
+       =%@M@M#@$-.=$@MM@@@M; %M%=
+         ,:+$+-,/H#MMMMMMM@- -,
+               =++%%%%+/:-.
+
+╰─────────────────────────────────────────────────────────────────────────────────────────────── •
+```
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Pac4games&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=city_lights&locale=en&hide_border=true&custom_title=Pac4's%20Stats" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pac4games&locale=en&hide_title=false&hide=css&layout=compact&card_width=320&langs_count=5&theme=city_lights&hide_border=true" height="150" alt="languages graph"  />
