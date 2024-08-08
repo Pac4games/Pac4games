@@ -63,7 +63,7 @@ $ Pacfetch
 ###
 
 <div align="center">
-  <img height="350" src="https://i.pinimg.com/originals/75/90/b0/7590b091674eb2a9700ecec83dd528c9.gif"  />
+  <img height="350" src="https://i.imgur.com/RcXc77a.gif"  />
 </div>
 
 ###
