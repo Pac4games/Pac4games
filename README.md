@@ -53,6 +53,8 @@ $ Pacfetch
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=windows" height="30" alt="windows logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=bash" height="30" alt="bash logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=neovim" height="30" alt="neovim logo"  />
