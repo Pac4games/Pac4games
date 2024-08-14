@@ -18,7 +18,7 @@ $ Pacfetch
   -@#@@@MX .,              -%HX$$%%%+;     professional and personal.
  =-./@M@M$                  .;@MMMM@MM:
  X@/ -$MM/                    .+MM@@@M$    I'm also a huge tech entusiast, especially when it
-,@M@H: :@:                    . -X#@@@@-   involves Operating Systems, and enjoy doing some
+,@M@H: :@:                    . -X#@@@@-   involves operating systems, and enjoy doing some
 ,@@@MMX, .                    /H- ;@M@M=   game development in my free time.
 .H@@@@M@+,                    %MM+..%#$.
  /MMMM@MMH/.                  XM@MH; -;
