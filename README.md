@@ -13,9 +13,9 @@ $ Pacfetch
          . :H@@@MM@M#H/.,+%;,              -----------
       ,/X+ +M@@M@MM%=,-%HMMM@X/,           Welcome to my GitHub page.
      -+@MM; $M@@MH+-,;XMMMM@MMMM@+-
-    ;@M@@M- XM@X;. -+XXXXXHHH@M@M#@/.      I'm a computer science student at 42 Lisboa, and
-  ,%MM@@MH ,@%=            .---=-=:=,.     here you may find my collection of projects, both
-  -@#@@@MX .,              -%HX$$%%%+;     professional and personal.
+    ;@M@@M- XM@X;. -+XXXXXHHH@M@M#@/.      I'm a computer science student at 42 Lisboa and
+  ,%MM@@MH ,@%=            .---=-=:=,.     Software Engineer at Nokia. Here you may find my
+  -@#@@@MX .,              -%HX$$%%%+;     collection of projects, both professional and personal.
  =-./@M@M$                  .;@MMMM@MM:
  X@/ -$MM/                    .+MM@@@M$    I'm also a huge tech entusiast, especially when it
 ,@M@H: :@:                    . -X#@@@@-   involves operating systems, and enjoy doing some
