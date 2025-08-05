@@ -13,7 +13,7 @@ $ Pacfetch
          . :H@@@MM@M#H/.,+%;,              -----------
       ,/X+ +M@@M@MM%=,-%HMMM@X/,           Welcome to my GitHub page.
      -+@MM; $M@@MH+-,;XMMMM@MMMM@+-
-    ;@M@@M- XM@X;. -+XXXXXHHH@M@M#@/.      I'm a computer science student at 42 Lisboa and
+    ;@M@@M- XM@X;. -+XXXXXHHH@M@M#@/.      I'm a graduate Computer Science student at 42 Lisboa and
   ,%MM@@MH ,@%=            .---=-=:=,.     Software Engineer at Nokia. Here you may find my
   -@#@@@MX .,              -%HX$$%%%+;     collection of projects, both professional and personal.
  =-./@M@M$                  .;@MMMM@MM:
@@ -51,6 +51,8 @@ $ Pacfetch
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="30" alt="go logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=windows" height="30" alt="windows logo"  />
@@ -64,6 +66,8 @@ $ Pacfetch
   <img src="https://skillicons.dev/icons?i=unity" height="30" alt="unity logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="30" alt="kubernetes logo"  />
 </div>
 
 ###
