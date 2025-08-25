@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="400" src="https://i.imgur.com/w3p4SAZ.gif"  />
+  <img height="400" src="https://raw.githubusercontent.com/Pac4games/Pac4games/refs/heads/main/the_darkest_of_founts.gif"  />
 </div>
 
 <h2 align="left">* Greetings.</h2>
