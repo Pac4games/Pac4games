@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="430" src="https://i.imgur.com/kEYtLgC.gif"  />
+  <img height="800" src="https://media1.tenor.com/m/2LzqxpxJq5QAAAAC/deltarune-undertale.gif"  />
 </div>
 
 <h2 align="left">* Greetings.</h2>
