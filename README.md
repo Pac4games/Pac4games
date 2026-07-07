@@ -10,7 +10,7 @@
 $ Pacfetch
 ╭──────────────────────────────────────────────────────────────────────────────────────────────── •
              .,-:;//;:=,                   pac4@aperture
-         . :H@@@MM@M#H/.,+%;,              -----------
+         . :H@@@MM@M#H/.,+%;,              -------------
       ,/X+ +M@@M@MM%=,-%HMMM@X/,           Welcome to my GitHub page.
      -+@MM; $M@@MH+-,;XMMMM@MMMM@+-
     ;@M@@M- XM@X;. -+XXXXXHHH@M@M#@/.      I'm an Alumni Computer Science student at 42 Lisboa and
