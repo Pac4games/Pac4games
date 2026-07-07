@@ -13,7 +13,7 @@ $ Pacfetch
          . :H@@@MM@M#H/.,+%;,              -----------
       ,/X+ +M@@M@MM%=,-%HMMM@X/,           Welcome to my GitHub page.
      -+@MM; $M@@MH+-,;XMMMM@MMMM@+-
-    ;@M@@M- XM@X;. -+XXXXXHHH@M@M#@/.      I'm a graduate Computer Science student at 42 Lisboa and
+    ;@M@@M- XM@X;. -+XXXXXHHH@M@M#@/.      I'm an Alumni Computer Science student at 42 Lisboa and
   ,%MM@@MH ,@%=            .---=-=:=,.     Software Engineer at Nokia. Here you may find my
   -@#@@@MX .,              -%HX$$%%%+;     collection of projects, both professional and personal.
  =-./@M@M$                  .;@MMMM@MM:
